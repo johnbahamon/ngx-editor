@@ -1,5 +1,5 @@
 {
-  "name": "ngx-wig-app",
+  "name": "ngx-editor",
   "version": "0.0.0",
   "scripts": {
     "lib-build": "ng build ngx-wig",
